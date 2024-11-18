@@ -1,8 +1,9 @@
 # List of production netscalers in rotation
 # Updated 2024-11-18
-103.168.70.53  #ica-sg.mydesk
-103.168.71.53  #ica-sg.mydesk
-205.228.101.54 #ica-hk.mydesk
-205.228.99.54  #ica-hk.mydesk
-211.95.25.100  #ica-cn.mydesk
-180.168.222.36 #ica-cn.mydesk
+
+103.168.70.53 ica-sg.mydesk
+103.168.71.53 ica-sg.mydesk
+205.228.101.54 ica-hk.mydesk
+205.228.99.54 ica-hk.mydesk
+211.95.25.100 ica-cn.mydesk
+180.168.222.36 ica-cn.mydesk
